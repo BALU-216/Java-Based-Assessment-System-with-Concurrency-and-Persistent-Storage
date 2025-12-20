@@ -1,0 +1,10 @@
+1|Which of the following is the superclass of all byte stream classes in Java?|Reader|Writer|InputStream|BufferedInputStream|3|2
+2|Which class is used to read characters from a file in Java?|FileReader|FileInputStream|DataInputStream|ObjectInputStream|1|2
+3|What is the main advantage of using BufferedReader over FileReader?|Reads binary data|Provides buffering for efficient reading|Automatically closes streams|Converts data into objects|2|2
+4|Which method of InputStream returns -1 when the end of the file is reached?|available()|read()|skip()|reset()|2|2
+5|Which of the following is used for object serialization in Java?|DataOutputStream|ObjectOutputStream|PrintWriter|BufferedOutputStream|2|2
+6|Which of the following classes is used to write primitive data types into an output stream?|ObjectOutputStream|BufferedWriter|DataOutputStream|FileWriter|3|2
+7|Which method of Reader is used to close the stream?|end()|stop()|close()|exit()|3|1
+8|Which class provides methods for reading formatted input in Java?|PrintWriter|Scanner|BufferedReader|DataInputStream|2|1
+9|What does FileWriter in Java primarily handle?|Reading characters|Writing characters|Reading bytes|Writing bytes|2|1
+10|Which exception is most commonly associated with Input/Output operations in Java?|NullPointerException|IOException|ClassNotFoundException|ArithmeticException|2|1
