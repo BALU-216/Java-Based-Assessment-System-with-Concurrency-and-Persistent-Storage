@@ -35,31 +35,7 @@ This project allows users to attempt quizzes, view scores, review answers, and c
 
 ## 📂 Project Structure
 
-OnlineQuizSystem
-│
-├── quizsystem
-│   ├── main
-│   │   └── Main.java
-│   │
-│   ├── model
-│   │   ├── Question.java
-│   │   └── LeaderboardEntry.java
-│   │
-│   ├── service
-│   │   └── QuizService.java
-│   │
-│   ├── io
-│   │   ├── QuestionLoader.java
-│   │   ├── LeaderboardManager.java
-│   │   └── ResultSaver.java
-│   │
-│   └── exceptions
-│       ├── InvalidAnswerException.java
-│       └── QuestionFormatException.java
-│
-├── questions.txt
-├── leaderboard.txt
-└── result.txt
+<img width="495" height="735" alt="image" src="https://github.com/user-attachments/assets/76a0ff64-2db6-4fc5-a7e4-dc4db233bdea" />
 
 
 
