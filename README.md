@@ -1,6 +1,24 @@
 # Java-Based-Assessment-System-with-Concurrency-and-Persistent-Storage
 A backend-focused console assessment system implemented in Java, showcasing object-oriented design, concurrent timer execution, structured file I/O, and leaderboard persistence. Built with separation of concerns and maintainability as core principles.
 
+## Installation
+
+1. Clone the repository.
+2. Open the project in your preferred Java IDE.
+3. Compile and run the application.
+
+## Requirements
+
+- Java JDK 17 or above
+- Visual Studio Code / IntelliJ IDEA
+- Git
+
+## Usage
+
+- Start the application.
+- Select the required menu option.
+- Complete the assessment and view the results.
+
 ## Project Structure
 
 OnlineQuizSystem/
@@ -15,6 +33,8 @@ OnlineQuizSystem/
 - Object-Oriented Programming
 - File Handling
 - Multithreading
+
+
 
 # Online Quiz System (Java)
 
