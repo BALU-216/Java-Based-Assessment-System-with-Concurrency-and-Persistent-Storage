@@ -1,6 +1,20 @@
 # Java-Based-Assessment-System-with-Concurrency-and-Persistent-Storage
 A backend-focused console assessment system implemented in Java, showcasing object-oriented design, concurrent timer execution, structured file I/O, and leaderboard persistence. Built with separation of concerns and maintainability as core principles.
 
+## Project Structure
+
+OnlineQuizSystem/
+├── src/
+├── questions.txt
+├── leaderboard.txt
+├── Result.txt
+
+## Technologies Used
+
+- Java
+- Object-Oriented Programming
+- File Handling
+- Multithreading
 
 # Online Quiz System (Java)
 
