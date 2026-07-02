@@ -7,6 +7,10 @@ A backend-focused console assessment system implemented in Java, showcasing obje
 2. Open the project in your preferred Java IDE.
 3. Compile and run the application.
 
+## Author
+
+Developed by Bala Durga Sesha Sai
+
 ## Requirements
 
 - Java JDK 17 or above
